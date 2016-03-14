@@ -14,7 +14,7 @@ var svgConfig = {
   mode: {
     symbol: {
       dest: '.',
-      sprite: 'icons',
+      sprite: 'maneuvers',
       inline: true
     }
   }
