@@ -1,11 +1,11 @@
 {
-  "name": "manoeuvre-iconography",
-  "version": "0.3.0",
+  "name": "turn-by-turn-icons",
+  "version": "1.0.0",
   "description": "SVG icon build process for route icons",
   "public": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/mapzen/manoeuvre-iconography.git"
+    "url": "https://github.com/mapzen/turn-by-turn-icons.git"
   },
   "scripts": {
     "prepublish": "gulp"
