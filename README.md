@@ -1,6 +1,6 @@
 # turn by turn icons
 
-for: https://mapzen.com/projects/turn-by-turn/
+for: https://mapzen.com/products/turn-by-turn/
 
 ## why?
 
@@ -10,8 +10,7 @@ this repository creates that svg bundle from the source illustrations, also in s
 
 ## howto
 
-i assume you have a pretty recent version of [node]
-(https://nodejs.org/en/).
+i assume you have a pretty recent version of [node](https://nodejs.org/en/).
 
 you should clone this repo locally.
 
